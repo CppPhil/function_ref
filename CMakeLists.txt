@@ -6,4 +6,5 @@ cmake_minimum_required (VERSION 3.8)
 project ("function_ref")
 
 # Include sub-projects.
+add_subdirectory(external/function_ref)
 add_subdirectory ("function_ref")
