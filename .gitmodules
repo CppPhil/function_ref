@@ -1,0 +1,3 @@
+[submodule "external/function_ref"]
+	path = external/function_ref
+	url = https://github.com/TartanLlama/function_ref.git
